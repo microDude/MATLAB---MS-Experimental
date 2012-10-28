@@ -1,0 +1,1 @@
+This folder contains the correct version of the orginal MMV method, with a script to control the varying aspects of A.
